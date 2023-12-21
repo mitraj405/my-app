@@ -23,15 +23,24 @@ Set up the project environment:
 
 **Project Dependencies**
 npm install
+
 npm update node@latest
+
 nvm install 18.17.0
+
 nvm use 18.17.0
 
+
 npm install @heroicons/react
+
 npm i firebase
+
 npm install --save react-firebase-hooks
+
 npm install react-hot-toast
+
 npm i firebase-admin
 
 npm run dev to launch the 
+
 LongShot application
